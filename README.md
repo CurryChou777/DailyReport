@@ -12,3 +12,7 @@
 - `cookie` [最新浏览器cookie缓存机制及SameSite属性](https://github.com/mqyqingfeng/Blog/issues/157)
 - `微前端` [微前端实战篇之qiankun🎉🎉🎉](https://juejin.im/post/6844904042427056142)  
            [基于 qiankun 的微前端应用通信](https://juejin.im/post/6844904151231496200#heading-3)
+           
+### 2020年10月20日
+
+- `Web Components` [Advanced Tooling for Web Components](https://css-tricks.com/advanced-tooling-for-web-components/)
