@@ -8,7 +8,7 @@
          [直播 (中) -- 核心流程梳理](https://ruby-china.org/topics/39254)
          [直播 (下) -- 业务结构简介](https://ruby-china.org/topics/39328)
 
-- `player` [Web Playe](https://support.streamroot.io/hc/en-us/articles/360000764953-Shaka-Player)
+- `player` [Web Player](https://support.streamroot.io/hc/en-us/articles/360000764953-Shaka-Player)
 
 ### 2020年10月23日
 
