@@ -2,6 +2,12 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+
+### 2020年10月28日
+
+- `axios` [77.9K Star 的 Axios 项目有哪些值得借鉴的地方](https://juejin.im/post/6885471967714115597)
+- `画图 脑图` [我的 Draw.io 画图经验分享](https://mp.weixin.qq.com/s/c0d_oGsBxpLhjV7Kv8GtBQ)
+
 ### 2020年10月27日
 
 - `Webpack优化` [基于vue-cli3以及wepack4.0的vue项目升级](https://juejin.im/post/6844904101222809613#heading-13)
