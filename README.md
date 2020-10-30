@@ -4,7 +4,8 @@
 
 ### 2020年10月30日
 - `首屏性能` [边缘计算听说过吗？淘宝用它提升了69%的首屏性能](https://juejin.im/post/6844904173788479502)
-- `动画` [花样动画效果，总有一款你喜欢](https://tympanus.net/codrops/)
+- `动画 CSS JS` [花式动画效果，总有一款适合你](https://tympanus.net/codrops/)
+- `引导线` [在web页面上绘制引导线](https://anseki.github.io/leader-line/)
 
 ### 2020年10月29日
 - `Web 3D` [蚂蚁金服 Web 3D 技术探索之路](https://zhuanlan.zhihu.com/p/101667941)
