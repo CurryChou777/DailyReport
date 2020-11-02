@@ -5,6 +5,7 @@
 ### 2020年11月02日
 - `Chrome DevTools` [Chrome DevTools中的这些骚操作，你都知道吗？](https://juejin.im/post/6844904162602254350)
 - `浏览器` [详细判断浏览器运行环境](https://juejin.im/post/6844903874113830920)
+- `webcomponent` [webcomponent应用 Fast](https://www.fast.design/%20webcomponent)
 
 ### 2020年10月30日
 - `首屏性能` [边缘计算听说过吗？淘宝用它提升了69%的首屏性能](https://juejin.im/post/6844904173788479502)
