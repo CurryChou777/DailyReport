@@ -8,7 +8,7 @@
 ### 2020年11月02日
 - `Chrome DevTools` [Chrome DevTools中的这些骚操作，你都知道吗？](https://juejin.im/post/6844904162602254350)
 - `浏览器` [详细判断浏览器运行环境](https://juejin.im/post/6844903874113830920)
-- `webcomponent` [webcomponent应用 Fast](https://www.fast.design/%20webcomponent)
+- `webcomponent` [web component应用 FAST](https://www.fast.design/%20webcomponent)
 - `webpack Optimize` [Optimize your libraries with webpack](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
 
 ### 2020年10月30日
