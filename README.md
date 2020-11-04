@@ -33,8 +33,8 @@
 
 ### 2020年10月26日
 
-- `直播` [直播 (上) -- 底层逻辑浅析](https://ruby-china.org/topics/39187)
-         [直播 (中) -- 核心流程梳理](https://ruby-china.org/topics/39254)
+- `直播` [直播 (上) -- 底层逻辑浅析](https://ruby-china.org/topics/39187)  
+         [直播 (中) -- 核心流程梳理](https://ruby-china.org/topics/39254)  
          [直播 (下) -- 业务结构简介](https://ruby-china.org/topics/39328)
 
 - `player` [Web Player](https://support.streamroot.io/hc/en-us/articles/360000764953-Shaka-Player)
@@ -45,13 +45,12 @@
 
 ### 2020年10月22日
 
-- `babel` [不容错过的 Babel7 知识](https://juejin.im/post/6844904008679686152)
-          
+- `babel` [不容错过的 Babel7 知识](https://juejin.im/post/6844904008679686152)  
           [一口(很长的)气了解 babel🎉🎉🎉](https://juejin.im/post/6844903743121522701)
 - `webpack` [脑阔疼的webpack按需加载](https://juejin.im/post/6844903718387875847#heading-23) 
 - `cookie` [最新浏览器cookie缓存机制及SameSite属性](https://github.com/mqyqingfeng/Blog/issues/157)
 - `微前端` [微前端实战篇之qiankun🎉🎉🎉](https://juejin.im/post/6844904042427056142)  
-           [基于 qiankun 的微前端应用通信](https://juejin.im/post/6844904151231496200#heading-3)
+           [基于 qiankun 的微前端应用通信](https://juejin.im/post/6844904151231496200#heading-3)  
            [微应用路由处理](https://www.cnblogs.com/scdisplay/p/13037536.html)
            
 ### 2020年10月20日
