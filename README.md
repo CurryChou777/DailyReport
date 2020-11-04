@@ -4,6 +4,7 @@
 
 ### 2020年11月04日
 - `Low Code` [低代码前端框架 amis](https://baidu.github.io/amis/docs/index)
+- `Web sheet` [一款纯前端类似excel的在线表格](https://mengshukeji.github.io/LuckysheetDocs/)
 
 ### 2020年11月02日
 - `Chrome DevTools` [Chrome DevTools中的这些骚操作，你都知道吗？](https://juejin.im/post/6844904162602254350)
