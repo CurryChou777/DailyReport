@@ -2,6 +2,9 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2020年11月05日
+- `3D` [基于 Threejs 的跨平台3D场景编辑器](https://github.com/tengge1/ShadowEditor)
+
 ### 2020年11月04日
 - `Low Code` [低代码前端框架 amis](https://baidu.github.io/amis/docs/index)
 - `Web sheet` [一款纯前端类似excel的在线表格](https://mengshukeji.github.io/LuckysheetDocs/)
