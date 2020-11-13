@@ -2,6 +2,10 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2020年11月13日
+- `Animate` [Animate 3D characters for games, film, and more](https://www.mixamo.com/#/?page=1&type=Motion%2CMotionPack)
+- `Shell` [Shell SSH工具,服务器管理](http://www.hostbuf.com/t/988.html)
+
 ### 2020年11月10日
 - `JS引擎讲解` [The Ultimate Guide to Hoisting, Scopes, and Closures in JavaScript](https://ui.dev/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/?spm=ata.13261165.0.0.2d8e16798YR8lw)
 
