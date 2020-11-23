@@ -3,6 +3,9 @@
 欢迎提出问题和讨论(*^▽^*)
 
 ### 2020年11月18日
+- `css` [Gradient Magic](https://www.gradientmagic.com/collection/darkbg)
+
+### 2020年11月23日
 - `component` [vue angular 组件库](http://www.wheelsfactory.cn/#/home)
 
 ### 2020年11月13日
