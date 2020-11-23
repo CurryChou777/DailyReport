@@ -4,6 +4,7 @@
 
 ### 2020年11月18日
 - `css` [Gradient Magic](https://www.gradientmagic.com/collection/darkbg)
+- `css 动画` [Popmotion —— 流动你的页面](https://zhuanlan.zhihu.com/p/33951814)
 
 ### 2020年11月23日
 - `component` [vue angular 组件库](http://www.wheelsfactory.cn/#/home)
