@@ -5,7 +5,7 @@
 ### 2020年11月24日
 - `Chrome` [Chrome 87 新特性解读](https://mp.weixin.qq.com/s/QsFj-D9YIK7VPa-jmQu_tg)
 - `Particles` [tsParticles 例子动画](https://codepen.io/collection/DPOage)
-
+- `Background` [Cool Background](https://coolbackgrounds.io/blue-background/)
 
 ### 2020年11月22日
 - `css` [Gradient Magic](https://www.gradientmagic.com/collection/darkbg)
