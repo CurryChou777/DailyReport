@@ -5,7 +5,7 @@
 ### 2020年11月26日
 - `监控` [SkyWalking 8.2.0 中的新特性: 浏览器端监控; 使用标签查询; 指标分析语言](http://skywalking.apache.org/zh/2020-10-29-skywalking8-2-release/)
 - `npm` [分分钟教会你搭建企业级的 npm 私有仓库](https://www.zoo.team/article/npm-registry)
-
+- `http` [半小时搞懂 HTTP、HTTPS和HTTP2](https://mp.weixin.qq.com/s/DXb_hrFejx1M8CXcG3AbEw)
 
 ### 2020年11月26日
 - `CSS` [CSS各种黑科技](https://github.com/chokcoco/iCSS)
