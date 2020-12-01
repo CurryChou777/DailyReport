@@ -4,6 +4,7 @@
 
 ### 2020年12月1日
 - `lit-element` [A simple base class for creating fast, lightweight web components](https://github.com/Polymer/lit-element)
+- `Vue3` [Vue超好玩的新特性：DOM传送门](https://mp.weixin.qq.com/s/pkq9sXHrbk_pBxNOLhfpMQ)
 
 ### 2020年11月27日
 - `监控` [SkyWalking 8.2.0 中的新特性: 浏览器端监控; 使用标签查询; 指标分析语言](http://skywalking.apache.org/zh/2020-10-29-skywalking8-2-release/)
