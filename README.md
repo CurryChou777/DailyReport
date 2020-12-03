@@ -2,6 +2,9 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2020年12月3日
+- `性能监控` [7 天打造前端性能监控系统](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
+
 ### 2020年12月1日
 - `lit-element` [A simple base class for creating fast, lightweight web components](https://github.com/Polymer/lit-element)
 - `Vue3` [Vue超好玩的新特性：DOM传送门](https://mp.weixin.qq.com/s/pkq9sXHrbk_pBxNOLhfpMQ)
