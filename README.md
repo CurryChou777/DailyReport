@@ -5,6 +5,7 @@
 ### 2020年12月4日
 - `Element UI` [Element UI for Vue 3.0 来了](https://juejin.cn/post/6900733850540834830)
 - `js` [利用 Math.random() 创造 js 特效](https://dev.to/vaibhavkhulbe/create-a-css-art-without-html-3deb)
+- `工具` [100 个高质量的免费插画](https://2.flexiple.com/scale/all-illustrations)
 
 ### 2020年12月3日
 - `性能监控` [7 天打造前端性能监控系统](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
