@@ -2,6 +2,9 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2020年12月7日
+- `组件` [如何制作一个组件？论组件化思想](https://juejin.cn/post/6878099828497186823)
+
 ### 2020年12月4日
 - `Element UI` [Element UI for Vue 3.0 来了](https://juejin.cn/post/6900733850540834830)
 - `js` [利用 Math.random() 创造 js 特效](https://dev.to/vaibhavkhulbe/create-a-css-art-without-html-3deb)
