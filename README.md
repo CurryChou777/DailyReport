@@ -2,6 +2,9 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2020年12月9日
+- `Deno` [15道ES6 Promise实战练习题，助你快速理解Promise](https://mp.weixin.qq.com/s/sjSBHTxJFxKApFXfa5Xmqg)
+
 ### 2020年12月8日
 - `Deno` [Deno 正式发布，彻底弄明白和 node 的区别](https://juejin.cn/post/6844904158617665544)
 
