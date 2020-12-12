@@ -3,6 +3,9 @@
 欢迎提出问题和讨论(*^▽^*)
 
 ### 2020年12月9日
+- `Lottie` [比阿里犸良还强大！Lottie 动效设计完全指南（基础篇）](https://www.uisdc.com/lottie-dynamic-design-guide)
+
+### 2020年12月9日
 - `Deno` [15道ES6 Promise实战练习题，助你快速理解Promise](https://mp.weixin.qq.com/s/sjSBHTxJFxKApFXfa5Xmqg)
 
 ### 2020年12月8日
