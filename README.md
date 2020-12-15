@@ -4,6 +4,7 @@
 
 ### 2020年12月14日
 - `styled-components` [js编写css类库](https://segmentfault.com/a/1190000021388921?utm_source=tag-newest)
+- `Vue Router 4.0` [Vue Router 4.0 发布！焕然一新](https://juejin.cn/post/6903717128373796871)
 
 ### 2020年12月11日
 - `Lottie` [比阿里犸良还强大！Lottie 动效设计完全指南（基础篇）](https://www.uisdc.com/lottie-dynamic-design-guide)
