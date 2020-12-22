@@ -2,8 +2,11 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2020年12月20日
+- `css效果类库` [利用浏览器滚动展现元素视觉差效果的工具](https://github.com/locomotivemtl/locomotive-scroll)
+
 ### 2020年12月14日
-- 低代码` [国内低代码平台](https://github.com/taowen/awesome-lowcode)
+- `低代码` [国内低代码平台](https://github.com/taowen/awesome-lowcode)
 
 ### 2020年12月14日
 - `styled-components` [js编写css类库](https://segmentfault.com/a/1190000021388921?utm_source=tag-newest)
