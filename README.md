@@ -10,7 +10,7 @@
 ### 2020年12月20日
 - `css效果类库` [利用浏览器滚动展现元素视觉差效果的工具](https://github.com/locomotivemtl/locomotive-scroll)
 
-### 2020年12月14日
+### 2020年12月16日
 - `低代码` [国内低代码平台](https://github.com/taowen/awesome-lowcode)
 
 ### 2020年12月14日
