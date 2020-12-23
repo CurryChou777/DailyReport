@@ -2,6 +2,11 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2020年12月23日
+- `news` [2020 Chrome 开发者峰会亮点](https://bitsofco.de/chrome-dev-summit-2020/)
+- `技巧` [8 个硬核技巧带你迅速提升 CSS 技术](https://juejin.cn/post/6908879198933221383)
+- `Serverless` [Serverless ：让「前端开发者」走向「应用研发者](https://juejin.cn/post/6905914691688595470#heading-0)
+
 ### 2020年12月20日
 - `css效果类库` [利用浏览器滚动展现元素视觉差效果的工具](https://github.com/locomotivemtl/locomotive-scroll)
 
