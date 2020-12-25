@@ -4,6 +4,7 @@
 
 ### 2020年12月25日
 - `知识库` [前端知识库总结](https://lq782655835.github.io/blogs/team-standard/0.standard-ai-summary.html)
+- `WebAssembly` [如何看待 WebAssembly 这门技术？](https://www.zhihu.com/question/362649730)
 
 ### 2020年12月23日
 - `news` [2020 Chrome 开发者峰会亮点](https://bitsofco.de/chrome-dev-summit-2020/)
