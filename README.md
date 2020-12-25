@@ -2,6 +2,9 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2020年12月25日
+- `知识库` [前端知识库总结](https://lq782655835.github.io/blogs/team-standard/0.standard-ai-summary.html)
+
 ### 2020年12月23日
 - `news` [2020 Chrome 开发者峰会亮点](https://bitsofco.de/chrome-dev-summit-2020/)
 - `技巧` [8 个硬核技巧带你迅速提升 CSS 技术](https://juejin.cn/post/6908879198933221383)
