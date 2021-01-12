@@ -2,6 +2,9 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2020年12月28日
+- `feat` [利用 React 和 styled-components 做主题切换功能](https://css-tricks.com/theming-and-theme-switching-with-react-and-styled-components/#top-of-site)
+
 ### 2020年12月25日
 - `知识库` [前端知识库总结](https://lq782655835.github.io/blogs/team-standard/0.standard-ai-summary.html)
 - `WebAssembly` [如何看待 WebAssembly 这门技术？](https://www.zhihu.com/question/362649730)
