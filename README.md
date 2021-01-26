@@ -2,6 +2,22 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2021年1月12日
+- `analysis` [2020 全球 JS 现状调查报告](https://mp.weixin.qq.com/s/YSlsUguNjLgMGKFk5r6iAA)
+- `页面停留` [如何精准统计页面停留时长](https://mp.weixin.qq.com/s/syVnMk_A9--gyWet3eVNVA)
+
+### 2021年1月8日
+- `keys` [做好前端的 10 个习惯](https://juejin.cn/post/6916420781069041677)
+- `keys` [2021年，我是如何从一名Vueer转岗到React阵营](https://mp.weixin.qq.com/s/_U6MtxJ9_UWJYN3mPx9heg)
+
+### 2021年1月7日
+- `IOT` [industrial-iot](https://iotbusinessnews.com/category/industrial-iot/)
+- `video` [用于在网页上播放视频的JS插件，灵活自定义](https://www.ckplayer.com/)
+
+### 2021年1月5日
+- `原子css` [Facebook 重构：抛弃 Sass / Less ，迎接原子化 CSS 时代](https://juejin.cn/post/6917073600474415117)
+- `Layout` [Graphic JavaScript Tree with Layout](https://www.codeproject.com/Articles/16192/Graphic-JavaScript-Tree-with-Layout)
+
 ### 2020年12月30日
 - `无代码` [“无代码”与我们的距离](https://mp.weixin.qq.com/s/Zhmh6mzCyxJlOvmuDMBSfw)
 - `console` [console.log 也能插图！！！](https://xie.infoq.cn/article/a8b8c170ca942b2a995d1e8e1/)
@@ -34,7 +50,7 @@
 - `Lottie` [比阿里犸良还强大！Lottie 动效设计完全指南（基础篇）](https://www.uisdc.com/lottie-dynamic-design-guide)
 
 ### 2020年12月9日
-- `Deno` [15道ES6 Promise实战练习题，助你快速理解Promise](https://mp.weixin.qq.com/s/sjSBHTxJFxKApFXfa5Xmqg)
+- `Promise` [15道ES6 Promise实战练习题，助你快速理解Promise](https://mp.weixin.qq.com/s/sjSBHTxJFxKApFXfa5Xmqg)
 
 ### 2020年12月8日
 - `Deno` [Deno 正式发布，彻底弄明白和 node 的区别](https://juejin.cn/post/6844904158617665544)
