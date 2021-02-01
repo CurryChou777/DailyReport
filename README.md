@@ -2,6 +2,9 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2021年2月1日
+- `css边框` [CSS 奇思妙想边框动画](https://juejin.cn/post/6918921604160290830)
+
 ### 2021年1月29日
 - `ECMA` [ECMAScript2021新特征](https://mp.weixin.qq.com/s/RLsZnYbn_HolMzpbT7KT3g)
 
