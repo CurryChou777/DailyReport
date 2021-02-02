@@ -19,7 +19,7 @@
 
 ### 2021年1月26日
 - `数据结构与算法` [GitHub 上值得前端学习的数据结构与算法项目](https://mp.weixin.qq.com/s?__biz=MzI5MjUxNjA4Mw==&mid=2247490880&idx=1&sn=6f21fdcd5fce0362cd7be044f8d4d252&chksm=ec0164dcdb76edcaf6c14745f99c9f25fb3ed1b6da354ff2992bc350208d5ac93a4b88a3b92a&mpshare=1&scene=23&srcid=0128gx63xVmcH9N1TNOAKGyh&sharer_sharetime=1611811618251&sharer_shareid=fdda1f8ba1b778bfc81d19eb5b0b5396#rd)
-- `iMove` [登上 Github 趋势榜，iMove 原理技术大揭秘!]https://mp.weixin.qq.com/s/cfGdGp1VAVn_bUqXUspvJg)
+- `iMove` [登上 Github 趋势榜，iMove 原理技术大揭秘!](https://mp.weixin.qq.com/s/cfGdGp1VAVn_bUqXUspvJg)
 
 ### 2021年1月12日
 - `analysis` [2020 全球 JS 现状调查报告](https://mp.weixin.qq.com/s/YSlsUguNjLgMGKFk5r6iAA)
