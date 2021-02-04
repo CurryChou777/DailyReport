@@ -2,6 +2,9 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2021年2月4日
+- `transition` [你可能不知道的 transition 技巧与细节](https://juejin.cn/post/6924114612799406093)
+
 ### 2021年2月2日
 - `网站动效` [8 Frontend Coding Ideas That Will Inspire You To Code](https://thewholesome.dev/p/8-frontend-coding-ideas-that-will?sort=new)
 - `article` [怎么提升写代码的能力](https://mp.weixin.qq.com/s/7TgFlsVJjsAqKqk6N8P3yg)
