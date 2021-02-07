@@ -2,6 +2,9 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2021年2月7日
+- `Chrome 88` [Chrome 88 重要更新解读](https://mp.weixin.qq.com/s/OHrzWRYwEbKkEHYzqknbBQ)
+
 ### 2021年2月4日
 - `transition` [你可能不知道的 transition 技巧与细节](https://juejin.cn/post/6924114612799406093)
 - `动画` [35 个 js 动效库](https://dev.to/haycuoilennao19/35-animation-library-css-javascript-for-developer-2c61)
