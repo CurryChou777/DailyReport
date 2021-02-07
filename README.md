@@ -4,6 +4,7 @@
 
 ### 2021年2月7日
 - `Chrome 88` [Chrome 88 重要更新解读](https://mp.weixin.qq.com/s/OHrzWRYwEbKkEHYzqknbBQ)
+- `VS Code` [VS Code 必知必会的 20 个快捷键！](https://mp.weixin.qq.com/s/0ZISK0bYsOrwX453ginUAA)
 
 ### 2021年2月4日
 - `transition` [你可能不知道的 transition 技巧与细节](https://juejin.cn/post/6924114612799406093)
