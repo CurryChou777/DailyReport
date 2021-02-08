@@ -2,6 +2,9 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2021年2月8日
+- `SSH教程` [阮一峰的 SSH 开源教程，可作手册查询](https://wangdoc.com/ssh/index.html)
+
 ### 2021年2月7日
 - `Chrome 88` [Chrome 88 重要更新解读](https://mp.weixin.qq.com/s/OHrzWRYwEbKkEHYzqknbBQ)
 - `VS Code` [VS Code 必知必会的 20 个快捷键！](https://mp.weixin.qq.com/s/0ZISK0bYsOrwX453ginUAA)
