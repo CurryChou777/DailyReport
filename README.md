@@ -4,6 +4,7 @@
 
 ### 2021年2月26日
 - `CSS Switch-Case` [CSS Switch-Case Conditions](https://css-tricks.com/css-switch-case-conditions/)
+- - `pnpm` [关于现代包管理器的深度思考](https://juejin.cn/post/6932046455733485575)
 
 ### 2021年2月22日
 - `clickOutside` [如何优雅解决 iframe 无法触发 clickOutside](https://txs1992.github.io/mt-blog/blog/click-outside.html)
