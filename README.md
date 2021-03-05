@@ -2,6 +2,9 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2021年3月5日
+- `构建` [Github Actions还是Jenkins？该怎么选？](https://mp.weixin.qq.com/s/-MVtQODeE-S6R_k3RNWkog)
+
 ### 2021年2月26日
 - `CSS Switch-Case` [CSS Switch-Case Conditions](https://css-tricks.com/css-switch-case-conditions/)
 - - `pnpm` [关于现代包管理器的深度思考](https://juejin.cn/post/6932046455733485575)
