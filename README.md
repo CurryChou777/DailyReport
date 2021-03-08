@@ -2,6 +2,11 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2021年3月8日
+- `CodeView` [推荐14个可以展示你代码的网站](https://mp.weixin.qq.com/s/J7d6TViIlzMPn1Y4K8TgFA)
+- `流程可视化` [滴滴开源 LogicFlow：专注流程可视化的前端框架](https://juejin.cn/post/6933413834682007560)
+- `骨架` [考拉骨架屏生成工具](https://github.com/kaola-fed/awesome-skeleton/blob/master/README-zh_CN.md)
+
 ### 2021年3月5日
 - `构建` [Github Actions还是Jenkins？该怎么选？](https://mp.weixin.qq.com/s/-MVtQODeE-S6R_k3RNWkog)
 - `Chrome 89` [Chrome 89 新功能一览，性能提升明显，大量 DevTools 新特性！](https://mp.weixin.qq.com/s/r_Tp6ccLddj2cxVkpgLYSQ)
