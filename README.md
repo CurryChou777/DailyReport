@@ -2,6 +2,9 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2021年3月10日
+- `架构涉及` [浅谈大型项目前端架构设计](https://mp.weixin.qq.com/s/u1LNZ_x4Fz4jQpHQGLH2ag)
+
 ### 2021年3月8日
 - `CodeView` [推荐14个可以展示你代码的网站](https://mp.weixin.qq.com/s/J7d6TViIlzMPn1Y4K8TgFA)
 - `流程可视化` [滴滴开源 LogicFlow：专注流程可视化的前端框架](https://juejin.cn/post/6933413834682007560)
