@@ -2,12 +2,19 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2021年3月17日
+- `文章` [如何做一场高质量的分享](https://mp.weixin.qq.com/s/Uwia82XlTMHPcvJ8QpPbSg)
+- `vue 性能` [面试官问 Vue 性能优化，我该怎么回答](https://mp.weixin.qq.com/s/uJ5-O4d4DqR2sIQzDqKVQw)
+- `TS 问题` [TS 常见问题整理](https://mp.weixin.qq.com/s/R19BqwXBGNutxKG-u233JQ)
+- `文章` [我们经常说的OKR管理法，到底怎么用？](https://mp.weixin.qq.com/s/b2tCSOtQkp3Y-uZ91IoMCQ)
+
 ### 2021年3月15日
 - `工具库` [写在2021: 值得关注/学习的前端框架和工具库](https://juejin.cn/post/6935670539088461855)
 - `NLP` [NLP民工的乐园: 几乎最全的中文NLP资源库](https://github.com/fighting41love/funNLP)
 
 ### 2021年3月12日
 - `用户体验设计` [Web 用户体验设计提升指南](https://mp.weixin.qq.com/s/DVcoTFO4wvMp5eD-eAjBpw)
+- `代码展示` [推荐14个可以展示你代码的网站](https://mp.weixin.qq.com/s/J7d6TViIlzMPn1Y4K8TgFA)
 
 ### 2021年3月10日
 - `架构设计` [浅谈大型项目前端架构设计](https://mp.weixin.qq.com/s/u1LNZ_x4Fz4jQpHQGLH2ag)
