@@ -2,6 +2,9 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2021年3月19日
+- `工具函数` [JavaScript工具函数大全](https://segmentfault.com/a/1190000021937948)
+
 ### 2021年3月17日
 - `文章` [如何做一场高质量的分享](https://mp.weixin.qq.com/s/Uwia82XlTMHPcvJ8QpPbSg)
 - `vue 性能` [面试官问 Vue 性能优化，我该怎么回答](https://mp.weixin.qq.com/s/uJ5-O4d4DqR2sIQzDqKVQw)
