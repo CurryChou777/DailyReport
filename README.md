@@ -2,6 +2,10 @@
 日常分享一些技术软文或者前沿技术文章，主要是前端领域及其相关
 欢迎提出问题和讨论(*^▽^*)
 
+### 2021年3月22日
+- `Awesome` [Windows上优质&精选的最佳应用程序及工具列表](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md#%E8%A7%86%E9%A2%91)
+- `threejs` [threejs 场景](https://github.com/tengge1/ShadowEditor)
+
 ### 2021年3月19日
 - `工具函数` [JavaScript工具函数大全](https://segmentfault.com/a/1190000021937948)
 - `thingsboard` [thingsboard](https://github.com/thingsboard/thingsboard)
